@@ -17,7 +17,60 @@ const App = () => (
     </div>
   </div>
   <div className="ed-grid m-grid-3">
-    <Cards />
+    <Cards 
+      title="React desde Cero"
+      teacher="Beto Quiroz"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg"
+      price="50"
+    />
+    <Cards 
+      title="JavaScript desde Cero"
+      teacher="Alvaro Félipe"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg"
+      price="20"
+    />
+    <Cards 
+      title="HTML desde Cero"
+      teacher="Alvaro Félipe"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/26557907-0555-427e-a40c-6ff207f98d72.png"
+      price="10"
+    />
+    <Cards 
+      title="React desde Cero"
+      teacher="Beto Quiroz"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg"
+      price="50"
+    />
+    <Cards 
+      title="JavaScript desde Cero"
+      teacher="Alvaro Félipe"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg"
+      price="20"
+    />
+    <Cards 
+      title="HTML desde Cero"
+      teacher="Alvaro Félipe"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/26557907-0555-427e-a40c-6ff207f98d72.png"
+      price="10"
+    />
+    <Cards 
+      title="React desde Cero"
+      teacher="Beto Quiroz"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg"
+      price="50"
+    />
+    <Cards 
+      title="JavaScript desde Cero"
+      teacher="Alvaro Félipe"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg"
+      price="20"
+    />
+    <Cards 
+      title="HTML desde Cero"
+      teacher="Alvaro Félipe"
+      image="https://edteam-media.s3.amazonaws.com/courses/small/26557907-0555-427e-a40c-6ff207f98d72.png"
+      price="10"
+    />
   </div>
   </>
 )
